@@ -89,7 +89,7 @@
     "table": "^6.0.3",
     "uuid": "^8.3.0",
     "wrap-ansi": "^7.0.0",
-    "yargs": "^16.0.3"
+    "yargs": "^16.2.0"
   },
   "repository": {
     "url": "https://github.com/aws/aws-cdk.git",
