@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 99
+  versioning-strategy: increase
+  ignore:
+  - dependency-name: codemaker
+    versions:
+    - ">= 0"
+  - dependency-name: "@jsii/*"
+    versions:
+    - ">= 0"
+  - dependency-name: jsii*
+    versions:
+    - ">= 0"
+  - dependency-name: "@types/node"
+    versions:
+    - ">=11.0.0-0"
