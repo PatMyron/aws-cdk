@@ -98,7 +98,7 @@
     "@aws-cdk/aws-batch": "0.0.0",
     "@aws-cdk/aws-kinesis": "0.0.0",
     "@aws-cdk/core": "0.0.0",
-    "constructs": "^3.0.4"
+    "constructs": "^3.3.54"
   },
   "homepage": "https://github.com/aws/aws-cdk",
   "peerDependencies": {
@@ -115,7 +115,7 @@
     "@aws-cdk/aws-stepfunctions": "0.0.0",
     "@aws-cdk/aws-batch": "0.0.0",
     "@aws-cdk/core": "0.0.0",
-    "constructs": "^3.0.4",
+    "constructs": "^3.3.54",
     "@aws-cdk/aws-kinesis": "0.0.0"
   },
   "engines": {
