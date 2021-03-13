@@ -93,7 +93,7 @@
     "jsonschema": "^1.2.10",
     "minimatch": "^3.0.4",
     "semver": "^7.3.2",
-    "yaml": "1.10.0"
+    "yaml": "1.10.2"
   },
   "devDependencies": {
     "@aws-cdk/alexa-ask": "0.0.0",

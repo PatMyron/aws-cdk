@@ -27,7 +27,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "codemaker": "^1.13.0",
-    "yaml": "1.10.0"
+    "yaml": "1.10.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
