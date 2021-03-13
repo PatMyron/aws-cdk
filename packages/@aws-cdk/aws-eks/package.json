@@ -93,7 +93,7 @@
     "@aws-cdk/custom-resources": "0.0.0",
     "cdk8s": "^0.30.0",
     "constructs": "^3.0.4",
-    "yaml": "1.10.0"
+    "yaml": "1.10.1"
   },
   "bundledDependencies": [
     "yaml"
