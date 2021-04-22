@@ -40,7 +40,7 @@
     "cdk-build-tools": "0.0.0",
     "jest": "^26.4.2",
     "jszip": "^3.5.0",
-    "mock-fs": "^4.13.0",
+    "mock-fs": "^4.14.0",
     "pkglint": "0.0.0"
   },
   "dependencies": {
