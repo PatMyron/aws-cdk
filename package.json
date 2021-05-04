@@ -22,7 +22,7 @@
     "jsii-pacmak": "^1.13.0",
     "jsii-rosetta": "^1.13.0",
     "lerna": "^3.22.1",
-    "standard-version": "^9.0.0",
+    "standard-version": "^9.3.0",
     "typescript": "~3.9.7"
   },
   "resolutions-comment": "should be removed or reviewed when nodeunit dependency is dropped or adjusted",
