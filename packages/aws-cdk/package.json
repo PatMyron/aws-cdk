@@ -79,7 +79,7 @@
     "colors": "^1.4.0",
     "decamelize": "^4.0.0",
     "fs-extra": "^9.0.1",
-    "glob": "^7.1.6",
+    "glob": "^7.1.7",
     "json-diff": "^0.5.4",
     "minimatch": ">=3.0",
     "promptly": "^3.0.3",
