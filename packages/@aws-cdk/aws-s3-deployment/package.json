@@ -89,7 +89,7 @@
     "@types/jest": "^26.0.14",
     "cdk-build-tools": "0.0.0",
     "cdk-integ-tools": "0.0.0",
-    "jest": "^26.4.2",
+    "jest": "^27.0.3",
     "pkglint": "0.0.0"
   },
   "dependencies": {
