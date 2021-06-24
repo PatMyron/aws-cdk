@@ -92,7 +92,7 @@
     "@aws-cdk/core": "0.0.0",
     "@aws-cdk/custom-resources": "0.0.0",
     "cdk8s": "^0.30.0",
-    "constructs": "^3.0.4",
+    "constructs": "^3.3.88",
     "yaml": "1.10.0"
   },
   "bundledDependencies": [
@@ -109,7 +109,7 @@
     "@aws-cdk/core": "0.0.0",
     "@aws-cdk/custom-resources": "0.0.0",
     "cdk8s": "^0.30.0",
-    "constructs": "^3.0.4"
+    "constructs": "^3.3.88"
   },
   "engines": {
     "node": ">= 10.13.0 <13 || >=13.7.0"
