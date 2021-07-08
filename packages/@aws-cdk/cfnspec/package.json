@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/fs-extra": "^8.1.1",
     "@types/md5": "^2.2.0",
-    "@types/nodeunit": "^0.0.31",
+    "@types/nodeunit": "^0.0.32",
     "cdk-build-tools": "0.0.0",
     "fast-json-patch": "^2.2.1",
     "fs-extra": "^9.0.1",
